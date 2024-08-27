@@ -1,2 +1,2 @@
 print('testing')
-asdfasfd
+print('test')
